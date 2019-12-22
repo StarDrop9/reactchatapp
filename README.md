@@ -1,2 +1,2 @@
 # reactchatapp
-React App with JWT Authentication with Sqllite3 and play chess &amp; blackjack &amp; show U tube favorites with Todos
+React App with JWT Authentication @w Sqllite3 & play chess &amp; blackjack &amp; show U tube favorites with Todos
